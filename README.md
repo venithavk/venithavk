@@ -1,14 +1,14 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Venitha Sekar
 =====================================================================================================================================
 
-Frontend Web Developer
+QA ENGINEER
 ----------------------
 
-A results driven front end developer with a passion for creating visually appealing and user centric web experiences.
+Technology expert with over 5+years of IT experience in testing and requirements analysis. Background in commercial test automation with a focus on testing applications and agile project management.
 
 * 🌍  I'm based in Tamilnadu
 * ✉️  You can contact me at [venithavk@gmail.com](mailto:venithavk@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Playwright
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
