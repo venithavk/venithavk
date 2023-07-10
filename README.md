@@ -1,7 +1,7 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Venitha Sekar
 =====================================================================================================================================
 
-QA Engineer
+Automation Engineer
 -----------
 
 Technology expert with over 5+years of IT experience in testing and requirements analysis. Background in commercial test automation with a focus on testing applications and agile project management.
