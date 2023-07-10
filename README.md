@@ -8,7 +8,7 @@ Technology expert with over 5+years of IT experience in testing and requirements
 
 * 🌍  I'm based in Tamilnadu
 * ✉️  You can contact me at [venithavk@gmail.com](mailto:venithavk@gmail.com)
-* 🧠  I'm learning Mobile Automation and React
+* 🧠  I'm learning React JS 
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am also a Passionate Web Designer and Web Developer
 
